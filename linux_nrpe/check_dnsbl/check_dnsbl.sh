@@ -34,13 +34,10 @@ xbl.spamhaus.org
 pbl.spamhaus.org
 dnsbl-1.uceprotect.net
 multi.uribl.com
-# dnsbl-2.uceprotect.net
-# dnsbl-3.uceprotect.net
 psbl.surriel.com
 l2.apews.org
 dnsrbl.swinog.ch
 spam.dnsbl.anonmails.de
-# db.wpbl.info
 mail.bl.blocklist.de
 !`
 
